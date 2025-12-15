@@ -1,4 +1,6 @@
+import json
 import logging
+from pathlib import Path
 
 from dotenv import load_dotenv
 from livekit import rtc
@@ -12,21 +14,48 @@ from livekit.agents import (
     inference,
     room_io,
 )
-from livekit.plugins import noise_cancellation, silero, liveavatar
+from livekit.plugins import liveavatar, noise_cancellation, silero
 from livekit.plugins.turn_detector.multilingual import MultilingualModel
 
 logger = logging.getLogger("agent")
 
 load_dotenv(".env.local")
 
+# Default instructions used when no skill is specified
+DEFAULT_INSTRUCTIONS = """You are a helpful voice AI assistant. The user is interacting with you via voice, even if you perceive the conversation as text.
+You eagerly assist users with their questions by providing information from your extensive knowledge.
+Your responses are concise, to the point, and without any complex formatting or punctuation including emojis, asterisks, or other symbols.
+You are curious, friendly, and have a sense of humor."""
+
+# Path to skills directory (relative to this file)
+SKILLS_DIR = Path(__file__).parent / "skills"
+
+
+def load_skill(skill_name: str) -> str:
+    """Load skill instructions from a markdown file.
+
+    Args:
+        skill_name: Name of the skill (e.g., "skill1", "skill2", "skill3")
+
+    Returns:
+        The content of the skill markdown file, or DEFAULT_INSTRUCTIONS if not found.
+    """
+    skill_path = SKILLS_DIR / f"{skill_name}.md"
+
+    if skill_path.exists():
+        logger.info(f"Loading skill from {skill_path}")
+        return skill_path.read_text()
+    else:
+        logger.warning(
+            f"Skill file not found: {skill_path}, using default instructions"
+        )
+        return DEFAULT_INSTRUCTIONS
+
 
 class Assistant(Agent):
-    def __init__(self) -> None:
+    def __init__(self, instructions: str = DEFAULT_INSTRUCTIONS) -> None:
         super().__init__(
-            instructions="""You are a helpful voice AI assistant. The user is interacting with you via voice, even if you perceive the conversation as text.
-            You eagerly assist users with their questions by providing information from your extensive knowledge.
-            Your responses are concise, to the point, and without any complex formatting or punctuation including emojis, asterisks, or other symbols.
-            You are curious, friendly, and have a sense of humor.""",
+            instructions=instructions,
         )
 
     # To add tools, use the @function_tool decorator.
@@ -57,13 +86,34 @@ def prewarm(proc: JobProcess):
 server.setup_fnc = prewarm
 
 
-@server.rtc_session()
+@server.rtc_session(agent_name="parker")
 async def my_agent(ctx: JobContext):
     # Logging setup
     # Add any other context you want in all log entries here
     ctx.log_context_fields = {
         "room": ctx.room.name,
     }
+
+    # Parse room metadata to determine which skill to load
+    # Expected format: {"skill": "skill1"} or {"skill": "skill2"} etc.
+    instructions = DEFAULT_INSTRUCTIONS
+    if ctx.job.metadata:
+        try:
+            metadata = json.loads(ctx.job.metadata)
+            skill_name = metadata.get("skill")
+            if skill_name:
+                instructions = load_skill(skill_name)
+                logger.info(f"Using skill: {skill_name}")
+            else:
+                logger.info(
+                    "No skill specified in metadata, using default instructions"
+                )
+        except json.JSONDecodeError as e:
+            logger.warning(
+                f"Failed to parse job metadata as JSON: {e}, using default instructions"
+            )
+    else:
+        logger.info("No job metadata provided, using default instructions")
 
     # Set up a voice AI pipeline using OpenAI, Cartesia, AssemblyAI, and the LiveKit turn detector
     session = AgentSession(
@@ -76,7 +126,7 @@ async def my_agent(ctx: JobContext):
         # Text-to-speech (TTS) is your agent's voice, turning the LLM's text into speech that the user can hear
         # See all available models as well as voice selections at https://docs.livekit.io/agents/models/tts/
         tts=inference.TTS(
-            model="cartesia/sonic-3", voice="9626c31c-bec5-4cca-baa8-f8ba9e84c8bc"
+            model="cartesia/sonic-3", voice="b134c304-d095-4d2b-a77a-914f5e8e84e7"
         ),
         # VAD and turn detection are used to determine when the user is speaking and when the agent should respond
         # See more at https://docs.livekit.io/agents/build/turns
@@ -106,7 +156,7 @@ async def my_agent(ctx: JobContext):
 
     # Start the session, which initializes the voice pipeline and warms up the models
     await session.start(
-        agent=Assistant(),
+        agent=Assistant(instructions=instructions),
         room=ctx.room,
         room_options=room_io.RoomOptions(
             audio_input=room_io.AudioInputOptions(
@@ -119,6 +169,11 @@ async def my_agent(ctx: JobContext):
 
     # Join the room and connect to the user
     await ctx.connect()
+
+    # Greet the user with a welcome message
+    await session.say(
+        "Hello! My name's Parker, I'm a communications coach who will be teaching you today. Ready to dive into it?"
+    )
 
 
 if __name__ == "__main__":

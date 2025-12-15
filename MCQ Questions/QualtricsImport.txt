@@ -1,0 +1,1028 @@
+[[AdvancedFormat]]
+
+[[Question:MC]]
+[[ID:Q1]]
+Your manager scheduled a meeting with you but didn't say what it was about. Which response best separates observable facts from interpretation?
+[[Choices]]
+"She scheduled a 30-minute meeting for tomorrow afternoon without specifying the topic."
+"She's probably going to give me negative feedback—she always does this before bad news."
+"She's testing me to see how I react to uncertainty."
+"She must have something urgent and confidential to discuss."
+
+[[Question:MC]]
+[[ID:Q2]]
+During a video call, your colleague turned off their camera after you started presenting your quarterly results. Which response best demonstrates identifying what actually occurred versus the story you might tell about it?
+[[Choices]]
+"They turned off their camera while I was presenting—I'm not sure why."
+"They're clearly bored by my presentation."
+"They're probably multitasking because they don't prioritize this meeting."
+"They're being passive-aggressive about my promotion last month."
+
+[[Question:MC]]
+[[ID:Q3]]
+A coworker CC'd your manager on an email asking you to clarify a data discrepancy. Which thought best reflects separating what happened from the interpretation?
+[[Choices]]
+"They're trying to get me in trouble by involving my manager."
+"They CC'd my manager on a question about the data discrepancy in the Q3 report."
+"They don't trust me to handle this correctly."
+"They want my manager to see that I made a mistake."
+
+[[Question:MC]]
+[[ID:Q4]]
+Your team lead gave you detailed notes on your project proposal, with more comments than anyone else on the team received. Which internal response best demonstrates distinguishing the observable event from the story you might create about it?
+[[Choices]]
+"They gave me more feedback because they think my work is substandard."
+"They're micromanaging me because they don't respect my experience."
+"They're investing extra time in me because I'm being groomed for leadership."
+"I received 14 comments on my proposal; I don't know their reasoning without asking."
+
+[[Question:MC]]
+[[ID:Q5]]
+In a performance review, your manager said "Your attention to detail has room for improvement." You're preparing to discuss this further. Which framing best separates observation from interpretation?
+[[Choices]]
+"She said attention to detail 'has room for improvement.' I want to understand what specific instances she's referring to."
+"She thinks I'm careless and sloppy with my work."
+"She's setting me up for a negative review cycle."
+"She doesn't appreciate how much I'm juggling right now."
+
+[[Question:MC]]
+[[ID:Q6]]
+Your project partner submitted their section of the report an hour before the deadline instead of the agreed-upon day before. In raising this with them, which approach best demonstrates separating what happened from the story about it?
+[[Choices]]
+"You clearly don't respect my time or the stress this causes me."
+"You're not committed to this partnership."
+"The section came in at 4 PM yesterday. We had agreed on the day before. I want to understand what happened."
+"You always wait until the last minute because you know I'll pick up the slack."
+
+[[Question:MC]]
+[[ID:Q7]]
+During a brainstorm meeting, a senior colleague said "That's an interesting idea" about your suggestion, then moved on to discuss someone else's proposal. Which interpretation best demonstrates staying with what observably happened?
+[[Choices]]
+"They're threatened by my ideas because I might be seen as competition."
+"They said 'that's an interesting idea' and then the conversation moved to another topic. I don't know what they actually thought."
+"They were dismissing me politely because they didn't want to embarrass me."
+"They loved the idea but couldn't show favoritism in front of the team."
+
+[[Question:MC]]
+[[ID:Q8]]
+Your manager promoted a colleague who has been at the company for less time than you. Before discussing this with your manager, which reflection best demonstrates separating facts from the story you might tell?
+[[Choices]]
+"My manager clearly doesn't value loyalty or tenure."
+"My manager promoted Jin after 18 months when I've been here for three years. I don't know all the factors that went into that decision."
+"My manager is playing favorites and probably doesn't like me personally."
+"My manager must think I'm not leadership material, otherwise they would have promoted me."
+
+[[Question:MC]]
+[[ID:Q9]]
+You proposed a new workflow process in a team meeting. Your director said, "Let's table this for now and revisit next quarter." Which response best demonstrates distinguishing what was said from what it might mean?
+[[Choices]]
+"The director said to revisit it next quarter. I want to understand what would need to be different to move forward sooner."
+"The director doesn't trust my judgment on operational decisions."
+"The director is just paying lip service—'next quarter' means never."
+"The director thinks the idea is bad but doesn't want to say so directly."
+
+[[Question:MC]]
+[[ID:Q10]]
+Your colleague didn't acknowledge your contribution when presenting the project to stakeholders, even though you developed the core methodology. Before approaching them, which framing best separates observable events from interpretation?
+[[Choices]]
+"They're trying to take credit for my work and advance at my expense."
+"They deliberately minimized my role because they want the visibility for themselves."
+"They presented the methodology without mentioning my name. I don't know if this was intentional or an oversight."
+"They don't respect the technical work because they only value client-facing contributions."
+
+[[Question:MC]]
+[[ID:Q11]]
+You're about to confront an employee about their "attitude problem." Before the meeting, what should you do first?
+[[Choices]]
+Plan open-ended questions to understand their perspective
+Prepare to reflect back what they say to show you're listening
+Identify specific observable behaviors versus the conclusions you've drawn about their attitude
+Practice staying calm when they become defensive
+
+[[Question:MC]]
+[[ID:Q12]]
+Your heart rate increases when you see an email from your VP. The subject line says: "Quick question about the Henderson account." You're feeling anxious before opening it. What skill would help most right now?
+[[Choices]]
+Preparing thoughtful questions to ask the VP in response
+Practicing what you'll say to demonstrate competence
+Noticing that the email subject is neutral and separating it from the threat you're anticipating
+Planning how to acknowledge any mistakes you might have made
+
+[[Question:MC]]
+[[ID:Q13]]
+Two departments are in conflict. Each says the other "doesn't take us seriously" and "undermines our work." You're mediating. What skill would most help unstick this conversation?
+[[Choices]]
+Having each side listen carefully and reflect back the other's concerns
+Asking each department open questions about what they need
+Having each side identify specific observable incidents that led to feeling dismissed
+Establishing ground rules for respectful dialogue
+
+[[Question:MC]]
+[[ID:Q14]]
+You're preparing for a difficult conversation with a vendor who you believe has been "dishonest" with you. What should you do first?
+[[Choices]]
+Rehearse how you'll respond when they become defensive
+Plan open questions to understand their perspective
+Identify the specific statements or actions that led you to the conclusion of dishonesty
+Prepare to validate their experience even if you disagree
+
+[[Question:MC]]
+[[ID:Q15]]
+You've just read a Slack message from a colleague that left you feeling dismissed. Before responding, what would be most helpful?
+[[Choices]]
+Taking time to calm down before replying
+Re-reading the actual words and noticing what story you're adding to them
+Preparing a respectful but firm response that sets boundaries
+Asking a trusted coworker for their perspective on the message
+
+[[Question:MC]]
+[[ID:Q16]]
+Context: A manager preparing for a performance conversation writes in her notes: "Observable: Arrived after 9:30 AM on 7 of the last 20 workdays. Met all project deadlines. Emails responses average 4 hours. My interpretations: He doesn't care about the job. He's disengaged. He's looking for another position. What I'll actually address: The late arrivals and whether the current schedule is working." Which skill is this manager demonstrating?
+[[Choices]]
+Planning empathetic responses to anticipated reactions
+Separating what observably happened from the story she's telling herself about it
+Formulating open-ended questions for the conversation
+Anticipating how to validate the employee's perspective
+
+[[Question:MC]]
+[[ID:Q17]]
+Context: In a team debrief, a project lead says: "I want to be careful here. What actually happened was that the client requested changes three times after sign-off. The story I've been telling myself is that they don't respect our process, but I actually don't know their internal pressures." Which skill is the project lead demonstrating?
+[[Choices]]
+Asking curious questions about the client's situation
+Separating the observable events from the interpretation about respect
+Actively listening to team members' concerns
+Advocating for better client boundaries
+
+[[Question:MC]]
+[[ID:Q18]]
+Context: In an HR conversation: Employee: "My manager is targeting me." HR: "That sounds really difficult. When you say 'targeting,' can you help me understand what specific things have happened?" Employee: "Well... she assigned me to the night shift three weeks in a row." HR: "Okay, so you were assigned to night shift for three consecutive weeks. Is there anything else that happened?" Which skill is the HR representative helping the employee use?
+[[Choices]]
+Validating the employee's emotional experience
+Gathering evidence for a formal complaint
+Moving from a characterization ("targeting") to specific observable events
+Building rapport before delivering difficult feedback
+
+[[Question:MC]]
+[[ID:Q19]]
+Context: A consultant's internal notes before a client meeting: "Client said: 'We expected more progress by now.' What I initially assumed: They think we're incompetent and might terminate the contract. What I actually know: They expected something different than what we delivered. I need to understand their specific expectations versus what we scoped." Which skill is this consultant using?
+[[Choices]]
+Preparing clarifying questions for the client
+Distinguishing the client's actual words from the catastrophic interpretation
+Planning how to manage the client relationship going forward
+Documenting the interaction for records
+
+[[Question:MC]]
+[[ID:Q20]]
+Context: During a coaching session: Coach: "You said he 'threw you under the bus' in the meeting. What did he actually say or do?" Coachee: "He said, 'The data in this slide came from marketing's analysis.' And then everyone looked at me." Coach: "Okay, so he attributed the data source, and you noticed people looking at you. What about that felt like being thrown under the bus?" Which skill is the coach helping the coachee develop?
+[[Choices]]
+Exploring emotions related to the incident
+Separating what observably happened from the characterization of betrayal
+Building empathy for the colleague's perspective
+Preparing for a follow-up conversation
+
+[[Question:MC]]
+[[ID:Q21]]
+Context: Performance review discussion: Manager: "Honestly, you've been checked out for months." Employee: "That's not true. You've just never liked me." Manager: "I'm trying to help you, but you're too defensive to hear it." Employee: "You're the one who's been sabotaging me since the restructure." Which skill would most improve this conversation?
+[[Choices]]
+Both parties asking curious questions about each other's perspectives
+Both parties separating specific observable behaviors from the accusations they're making
+Both parties reflecting back what the other is saying
+Both parties taking a break to cool down emotionally
+
+[[Question:MC]]
+[[ID:Q22]]
+Context: Slack exchange between coworkers: Riley: "Why do you always exclude me from the client calls?" Jamie: "I don't always exclude you. You're just paranoid about being left out." Riley: "See, you're dismissing me again." Jamie: "I can't have a reasonable conversation with you when you're like this." What skill would most improve this exchange?
+[[Choices]]
+Using "I" statements to express feelings
+Taking turns speaking without interruption
+Identifying specific instances versus using generalizations and characterizations
+Acknowledging each other's emotions
+
+[[Question:MC]]
+[[ID:Q23]]
+Context: A director's internal monologue before a board presentation: "The board is going to tear this apart. They never approve anything innovative. Martinez will definitely attack the budget section—he hates taking risks. I need to be prepared for their hostility." Which skill would most help this director prepare more effectively?
+[[Choices]]
+Planning open questions to understand board concerns
+Practicing staying calm under pressure
+Separating past observations from predictions being treated as certainties
+Preparing validating responses to anticipated criticism
+
+[[Question:MC]]
+[[ID:Q24]]
+Context: Email from a project manager to their team: "As you all know, IT has been completely uncooperative with our requests. Their refusal to prioritize our needs shows a fundamental lack of respect for what we're trying to accomplish. Going forward, I'm escalating every request to their director." What skill would have improved this communication?
+[[Choices]]
+Using a more conciliatory tone with the team
+Distinguishing specific incidents from characterizations like "uncooperative" and "lack of respect"
+Asking the team for input before escalating
+Expressing empathy for IT's constraints
+
+[[Question:MC]]
+[[ID:Q25]]
+Context: In a partner meeting at a consulting firm: Partner A: "The Singapore team is clearly not committed to this client." Partner B: "I agree. They're obviously prioritizing their local accounts over global partnerships." Partner A: "We need to have a serious conversation about their loyalty to the firm." What skill is most notably absent from this exchange?
+[[Choices]]
+Curiosity about the Singapore team's perspective
+Separating specific observations from conclusions about commitment and loyalty
+Validating each other's concerns
+Proposing constructive next steps
+
+[[Question:MC]]
+[[ID:Q26]]
+Your direct report says: "I've been handling three people's workloads since the layoffs, and I just found out I'm not getting a raise this year." Which response best demonstrates restating their message while showing you understand how they feel?
+[[Choices]]
+"The budget for raises is frozen across the whole department, so it's not personal."
+"Have you talked to HR about a title change instead?"
+"You've been carrying a huge load since the restructure, and now learning there's no raise—that must feel like a real slap in the face."
+"I understand. Lots of people are stretched thin right now."
+
+[[Question:MC]]
+[[ID:Q27]]
+A colleague says: "I put in 60-hour weeks to land the Morrison account, and then they gave the account lead position to someone who wasn't even on the pitch team." Which response best shows you've heard both what happened and how it landed for them?
+[[Choices]]
+"Maybe there are factors you're not aware of in the decision."
+"You should document your contributions and raise this with your manager."
+"You put in an enormous effort to win this account, and then someone else got the lead role. That sounds incredibly frustrating and unfair."
+"Account assignments are always political. Don't take it personally."
+
+[[Question:MC]]
+[[ID:Q28]]
+During a one-on-one, your manager says: "Every time I suggest a new initiative, leadership finds a reason to delay or kill it. I'm starting to wonder why I bother." Which response best demonstrates understanding what they said and how they're experiencing it?
+[[Choices]]
+"It sounds like you've been hitting walls on your initiatives and you're feeling demoralized—like your efforts aren't valued."
+"That's just how things work at the senior level. You have to pick your battles."
+"Have you tried framing your proposals differently?"
+"Leadership probably has constraints you don't see."
+
+[[Question:MC]]
+[[ID:Q29]]
+A team member says: "I specifically told them the deadline was impossible with our current resources, and they committed to the client anyway. Now I'm the one who has to explain why we're late." Which response best reflects back what they've shared and acknowledges how it might feel?
+[[Choices]]
+"You flagged the resource constraint, the decision was made anyway, and now you're stuck holding the bag. That's really unfair to you."
+"What resources did you say you needed?"
+"Next time, put it in writing so there's a record."
+"Yeah, sales always overpromises. Welcome to the team."
+
+[[Question:MC]]
+[[ID:Q30]]
+In a virtual meeting, a remote team member says: "I feel like decisions are made in the office and we just get informed after the fact. There's never a chance to weigh in." Which response best demonstrates restating their concern while recognizing how it affects them?
+[[Choices]]
+"We should schedule more hybrid meetings with the remote team included."
+"You're feeling left out of decision-making—like choices are made without your input and you're just told what's been decided. That's isolating."
+"It's hard to include everyone when there are time zone differences."
+"What decisions specifically are you referring to?"
+
+[[Question:MC]]
+[[ID:Q31]]
+During an exit interview, an employee says: "I loved the work itself, but I couldn't keep dealing with the inconsistent expectations. One week something was a priority, the next week it wasn't even mentioned." Which response best captures their experience?
+[[Choices]]
+"That feedback is noted. We're working on improving communication."
+"Can you give me specific examples of the shifting priorities?"
+"Was there a particular manager whose expectations were inconsistent?"
+"It sounds like the work itself was meaningful to you, but the constant shifting made it impossible to feel grounded. That kind of unpredictability is exhausting."
+
+[[Question:MC]]
+[[ID:Q32]]
+A client says: "We've brought up the integration issues multiple times, and every meeting we're told it's being worked on. It's been four months." Which response best shows understanding of their situation and emotional state?
+[[Choices]]
+"Let me check on the status and get back to you by end of day."
+"I hear you—you've raised this concern repeatedly, been told it's in progress, and still don't have resolution. Four months of that would make anyone feel like they're not being heard."
+"The integration is complex and has dependencies with other systems."
+"I understand the frustration. We do have it as a priority."
+
+[[Question:MC]]
+[[ID:Q33]]
+An employee tells you: "I'm the only woman on this team and I'm always asked to take notes and plan the birthday celebrations. No one else gets asked." Which response best demonstrates reflecting their experience and emotional reality?
+[[Choices]]
+"Would you like me to create a rotating schedule for those tasks?"
+"Maybe people just know you're organized."
+"You're noticing a pattern where you're consistently asked to do administrative tasks that others aren't asked to do, and that feels gendered—like you're being treated differently because you're a woman."
+"That's not intentional. I'm sure they don't realize they're doing it."
+
+[[Question:MC]]
+[[ID:Q34]]
+Your manager pulls you aside after a meeting and says: "I noticed you didn't push back when the VP changed the timeline. You usually advocate for realistic deadlines. Is everything okay?" Which response, if you were a coach advising the employee on how to respond, best demonstrates reflecting what the manager is communicating?
+[[Choices]]
+"You noticed I was quieter than usual in that meeting and you're wondering if something's going on with me."
+"I was just tired. Don't worry about it."
+"I didn't think it was worth the fight."
+"Are you saying I should have pushed back?"
+
+[[Question:MC]]
+[[ID:Q35]]
+Your direct report is visibly upset after returning from a meeting with another team. They start explaining what happened, but their voice is shaking. What should you do first?
+[[Choices]]
+Ask what specifically happened so you can help address it
+Reflect back what you're hearing and acknowledge that they're clearly shaken
+Offer to escalate the issue to their manager's manager
+Help them separate facts from interpretations about what occurred
+
+[[Question:MC]]
+[[ID:Q36]]
+You've just delivered critical feedback to an employee. They've responded with: "I've been trying so hard and it's never enough." What would be most effective to do next?
+[[Choices]]
+Clarify that you're trying to help them improve
+Provide more specific examples of where they need to develop
+Reflect their words back and acknowledge how discouraging this feels before continuing
+Ask what support they need to meet expectations
+
+[[Question:MC]]
+[[ID:Q37]]
+A colleague has been venting to you for ten minutes about a project that fell apart. They seem to want to talk more than receive advice. What skill would be most appropriate right now?
+[[Choices]]
+Helping them distinguish what happened from what they're making it mean
+Asking open questions to understand the situation better
+Restating what you're hearing to help them feel understood
+Sharing a similar experience you've had to show solidarity
+
+[[Question:MC]]
+[[ID:Q38]]
+During a heated negotiation with a vendor, they say: "You clearly have no idea what it takes to deliver at this quality level." What would be most effective to do next?
+[[Choices]]
+Defend your understanding and cite your experience
+Ask them to explain what you're missing
+Acknowledge what you're hearing—that they feel their expertise isn't being recognized—before responding
+Redirect the conversation to the contract terms
+
+[[Question:MC]]
+[[ID:Q39]]
+You're a senior leader and a mid-level manager just finished explaining their team's frustrations with the new policy. Before you explain the rationale behind the policy, what should you do?
+[[Choices]]
+Demonstrate that you heard their concerns by summarizing them and acknowledging the impact on their team
+Ask clarifying questions to fully understand the issues
+Help them see the bigger picture that led to the policy
+Assure them that you'll take their feedback into account
+
+[[Question:MC]]
+[[ID:Q40]]
+An employee who has been quiet in recent weeks suddenly opens up to you about personal stress that's affecting their work. What should you prioritize first?
+[[Choices]]
+Asking what accommodations would help them
+Reflecting back what you're hearing to show you understand and that it's okay to share this
+Helping them think through how to balance personal and professional demands
+Sharing the EAP resources available to them
+
+[[Question:MC]]
+[[ID:Q41]]
+Context: A manager responds to an employee's frustration: Employee: "I keep getting pulled onto these emergency projects and then I'm behind on my actual goals. It's impossible." Manager: "So you're getting constantly redirected to urgent work, and it's making it impossible to make progress on what you're actually being evaluated on. That's a really stressful position to be in." Which skill is the manager demonstrating?
+[[Choices]]
+Helping the employee prioritize effectively
+Restating the employee's situation while acknowledging the emotional difficulty
+Asking questions to understand the pattern
+Problem-solving the resource allocation issue
+
+[[Question:MC]]
+[[ID:Q42]]
+Context: In a client call: Client: "This is the third time we've had to correct errors in the deliverables. I'm starting to lose confidence in the partnership." Consultant: "You've had to flag multiple quality issues, and at this point it's affecting your trust in what we can deliver. I completely understand why that's concerning." Which skill is the consultant demonstrating?
+[[Choices]]
+Apologizing for the errors
+Restating the client's experience while acknowledging the emotional impact
+Promising to escalate the issue
+Defending the team's work
+
+[[Question:MC]]
+[[ID:Q43]]
+Context: In an HR mediation: Employee: "Every idea I bring to the table gets dismissed or gets credit given to someone else. I feel invisible." HR: "It sounds like you're putting forward ideas and they're either getting shut down or attributed to others, which leaves you feeling unrecognized and unseen." Which skill is the HR representative using?
+[[Choices]]
+Building a case for intervention
+Reflecting the employee's experience and emotional state accurately
+Documenting the complaint
+Probing for more specific examples
+
+[[Question:MC]]
+[[ID:Q44]]
+Context: A senior engineer responds to a junior engineer's concern: Junior: "I'm afraid to ask questions in our standups because everyone seems impatient when I don't know something." Senior: "You're sensing that questions aren't welcome in those meetings, and that's making you hesitant to speak up even when you need clarification. That would feel pretty isolating." Which skill is the senior engineer demonstrating?
+[[Choices]]
+Coaching the junior on when to ask questions
+Validating the junior's perception of team culture
+Restating what the junior shared and naming the likely emotional impact
+Committing to address the team dynamic
+
+[[Question:MC]]
+[[ID:Q45]]
+Context: A mentor responds to a mentee's update: Mentee: "I got feedback that I'm 'not strategic enough' for promotion. I've been working harder than anyone on my team." Mentor: "So you're hearing that hard work isn't translating to what they're looking for, and that's confusing and probably feels unfair given everything you've put in." Which skill is the mentor using?
+[[Choices]]
+Helping the mentee understand what "strategic" means
+Restating the feedback gap and acknowledging the emotional dissonance
+Preparing the mentee for next steps
+Challenging the feedback as potentially biased
+
+[[Question:MC]]
+[[ID:Q46]]
+Context: An employee shares a concern and their manager responds: Employee: "I'm burned out. I've been covering two roles for six months and I don't see an end in sight." Manager: "We should set up a meeting to discuss workload distribution. I'll send a calendar invite." Which skill is most notably missing from the manager's response?
+[[Choices]]
+Problem-solving the workload issue
+Acknowledging the emotional weight of what the employee shared before moving to action
+Asking clarifying questions about the two roles
+Offering specific solutions
+
+[[Question:MC]]
+[[ID:Q47]]
+Context: A colleague shares a struggle: Amir: "I moved across the country for this role, left my whole support system behind, and now they're restructuring my team." Beth: "Restructures are always hard. Try not to worry until you know more." What skill would most improve Beth's response?
+[[Choices]]
+Asking open questions about Amir's concerns
+Helping Amir distinguish facts from interpretations
+Reflecting the weight of what Amir shared before offering advice
+Sharing information about the restructure timeline
+
+[[Question:MC]]
+[[ID:Q48]]
+Context: A feedback conversation: Director: "The client specifically called out your presentation as the highlight of the engagement." Employee: "I'm surprised. I didn't think it went well. I stumbled on the technical section." Director: "You're too hard on yourself. Anyway, let's talk about the next project." What skill is missing from the director's response?
+[[Choices]]
+Restating what the employee said and exploring the disconnect between their perception and the client feedback
+Offering more evidence of strong performance
+Challenging the employee's self-assessment
+Helping the employee accept positive feedback
+
+[[Question:MC]]
+[[ID:Q49]]
+Context: In a performance review: Manager: "Your numbers have been solid but there's room to be more proactive in client communication." Employee: "I've been trying to balance a lot. My partner was in the hospital for three weeks last month." Manager: "I understand. So going forward, what's your plan to improve the communication frequency?" Which skill is most absent from the manager's response?
+[[Choices]]
+Asking open questions about priorities
+Pausing to acknowledge what the employee just shared before continuing with performance goals
+Offering flexibility given the circumstances
+Distinguishing facts from interpretations about communication frequency
+
+[[Question:MC]]
+[[ID:Q50]]
+Context: Exit interview: Employee: "I loved my team, but I felt like leadership had no idea what was happening at our level. Decisions were made in a vacuum." HR: "Thanks for that feedback. Any other observations about processes or systems?" What skill is missing?
+[[Choices]]
+Reflecting back the core concern and emotional weight before moving on
+Asking follow-up questions about leadership
+Documenting the feedback thoroughly
+Defending leadership's decision-making process
+
+[[Question:MC]]
+[[ID:Q51]]
+An employee tells you they're thinking about leaving the company. Which question best invites genuine exploration?
+[[Choices]]
+"Don't you think you should stay at least until you're vested?"
+"Is this about the promotion you didn't get?"
+"What aspects of your work here are no longer working for you?"
+"Have you really thought about what you'd be giving up?"
+
+[[Question:MC]]
+[[ID:Q52]]
+Your team member seems hesitant about a new project assignment. Which question would best help you understand what's going on?
+[[Choices]]
+"What's making you hesitate about this project?"
+"You're not going to turn this down, are you?"
+"Don't you think this is a great growth opportunity?"
+"Is it the timeline or the scope that's bothering you?"
+
+[[Question:MC]]
+[[ID:Q53]]
+A vendor says your proposed terms "won't work." Which question best opens up exploration of their constraints?
+[[Choices]]
+"What would need to be different about the terms for this to work for you?"
+"Don't you think you're being unreasonable here?"
+"Is this about the payment schedule or the liability clause?"
+"Can you just work with us on this one?"
+
+[[Question:MC]]
+[[ID:Q54]]
+A colleague seems upset after a meeting but hasn't said why. Which question would best invite them to share?
+[[Choices]]
+"Are you upset about what Sarah said?"
+"Why are you being so quiet?"
+"Don't you think you're overreacting?"
+"What's on your mind after that meeting?"
+
+[[Question:MC]]
+[[ID:Q55]]
+You're mediating a conflict between two departments. One says the other "never respects deadlines." Which question would best help get beneath this characterization?
+[[Choices]]
+"What specifically happened that made you feel deadlines weren't being respected?"
+"Don't you think 'never' is a bit of an exaggeration?"
+"Have you tried communicating more clearly about deadlines?"
+"Is it possible you're being too rigid about timelines?"
+
+[[Question:MC]]
+[[ID:Q56]]
+In a coaching session, an employee says they feel "stuck" in their career. Which question would best help them explore this?
+[[Choices]]
+"What would forward movement look like for you?"
+"Have you updated your resume lately?"
+"Don't you think you should focus on developing new skills?"
+"Is this because of your manager or the role itself?"
+
+[[Question:MC]]
+[[ID:Q57]]
+A project is behind schedule. You need to understand why before problem-solving. Which question to the project lead would be most useful?
+[[Choices]]
+"Was it the scope creep or the resource issues?"
+"Why didn't you raise the red flag earlier?"
+"What got in the way of staying on track?"
+"Don't you think you should have asked for help sooner?"
+
+[[Question:MC]]
+[[ID:Q58]]
+An employee is resisting feedback about their communication style. You want to understand their perspective. Which question is most likely to open genuine dialogue?
+[[Choices]]
+"Don't you think there might be some truth to the feedback?"
+"How does this feedback land for you—what's your reaction?"
+"Why are you being so defensive about this?"
+"Can't you see how this is coming across?"
+
+[[Question:MC]]
+[[ID:Q59]]
+Your boss made a decision you disagree with. You want to understand their reasoning without being seen as combative. Which question would work best?
+[[Choices]]
+"Did you even consider the impact on the team?"
+"Can you help me understand what factors led to this decision?"
+"Why would you do it this way when the other approach is clearly better?"
+"Didn't the data show this wouldn't work?"
+
+[[Question:MC]]
+[[ID:Q60]]
+A high performer has become withdrawn in recent weeks. You want to check in without making assumptions. Which question works best?
+[[Choices]]
+"Is there something wrong I should know about?"
+"Are you looking for another job?"
+"I've noticed you've been quieter lately. What's been going on for you?"
+"Are you upset with the team or is this a personal issue?"
+
+[[Question:MC]]
+[[ID:Q61]]
+A client pushes back on your proposed timeline, saying it's "completely unrealistic." Which question would best invite productive dialogue?
+[[Choices]]
+"What timeline would feel realistic given your constraints?"
+"Have you considered what happens if we rush this?"
+"Don't you trust us to deliver quality quickly?"
+"Why didn't you mention your concerns earlier in the process?"
+
+[[Question:MC]]
+[[ID:Q62]]
+An interviewee's answers are brief and don't reveal much about their thinking. Which question would best invite a more substantive response?
+[[Choices]]
+"Walk me through your thinking when you approached that project."
+"Did you enjoy that role?"
+"Why didn't that job work out?"
+"You must have learned a lot there, right?"
+
+[[Question:MC]]
+[[ID:Q63]]
+A negotiation has stalled because you don't fully understand what the other party actually needs beyond their stated position. What skill would be most helpful?
+[[Choices]]
+Restating their position to show you understand
+Asking open, exploratory questions to uncover underlying interests
+Separating what they've said from what you've assumed about their motives
+Offering a creative alternative to break the deadlock
+
+[[Question:MC]]
+[[ID:Q64]]
+An employee keeps saying they're "fine" when you sense something is wrong. What would be most helpful?
+[[Choices]]
+Reflecting back that they say they're fine but something seems off
+Sharing your own experience to create connection
+Asking an open question that invites more than a surface-level response
+Separating your assumptions from observable behavior
+
+[[Question:MC]]
+[[ID:Q65]]
+You've reflected back your colleague's concern and they feel heard. Now you want to help them think through the situation more deeply. What would be most useful next?
+[[Choices]]
+Offer your perspective on the situation
+Ask curious questions to help them explore different angles
+Help them identify what observable facts support their concern
+Share what you would do in their situation
+
+[[Question:MC]]
+[[ID:Q66]]
+You've been making assumptions about why a client is frustrated. What would help you check those assumptions?
+[[Choices]]
+Sharing what you've been assuming and asking if it's accurate
+Reflecting back what they've said so far
+Asking open questions about what's really driving their frustration
+Acknowledging their frustration before doing anything else
+
+[[Question:MC]]
+[[ID:Q67]]
+An employee objects to a new policy but can't articulate clearly why. You want to genuinely understand their concern. What would help most?
+[[Choices]]
+Explaining the reasoning behind the policy
+Asking open questions that help them clarify their own thinking
+Reflecting back what you've heard so far
+Suggesting they think about it more and get back to you
+
+[[Question:MC]]
+[[ID:Q68]]
+Context: In a one-on-one meeting: Manager: "You mentioned the project feels overwhelming. What aspects of it feel most daunting right now?" Which skill is the manager demonstrating?
+[[Choices]]
+Problem-solving
+Asking an open, exploratory question to deepen understanding
+Reflecting what the employee said
+Setting up a delegation conversation
+
+[[Question:MC]]
+[[ID:Q69]]
+Context: In a client meeting: Client: "We're not happy with the direction this is going." Consultant: "Can you help me understand what an ideal direction would look like for you?" Which skill is the consultant using?
+[[Choices]]
+Restating the client's position
+Defending the current approach
+Asking an open question to understand underlying expectations
+Managing client expectations
+
+[[Question:MC]]
+[[ID:Q70]]
+Context: In a feedback conversation: Director: "The team flagged concerns about collaboration with your department." Manager: "What would stronger collaboration look like from their perspective?" Which skill is the manager demonstrating?
+[[Choices]]
+Defending their department
+Asking an exploratory question to understand expectations
+Reflecting the feedback
+Requesting specific examples of problems
+
+[[Question:MC]]
+[[ID:Q71]]
+Context: In a skip-level meeting: Employee: "I don't feel like I have a clear path here." Senior Leader: "What would a clear path feel like to you? What would you need to see or know?" Which skill is the senior leader using?
+[[Choices]]
+Career coaching
+Asking open questions to understand the employee's vision
+Explaining the organization's career framework
+Acknowledging the employee's frustration
+
+[[Question:MC]]
+[[ID:Q72]]
+Context: In a project retrospective: Team lead: "What was it about the handoff process that didn't work well for you?" Which skill is the team lead demonstrating?
+[[Choices]]
+Assigning blame for the handoff issues
+Restating concerns that were previously raised
+Asking an exploratory question to understand the breakdown
+Proposing a new handoff process
+
+[[Question:MC]]
+[[ID:Q73]]
+Context: A manager responds to an employee's concern: Employee: "I'm not sure the new structure is going to work." Manager: "It will be fine once everyone adjusts. Give it a month." Which skill would most improve the manager's response?
+[[Choices]]
+Restating the concern
+Asking an open question about what specifically concerns them about the structure
+Separating the employee's facts from interpretations
+Validating that change is hard
+
+[[Question:MC]]
+[[ID:Q74]]
+Context: In a mentoring conversation: Mentee: "I'm thinking about asking for a promotion." Mentor: "Make sure you have a strong case prepared. You should document all your accomplishments and get your manager's support first." What skill is missing?
+[[Choices]]
+Restating the mentee's goal
+Asking exploratory questions about what's driving the decision and what they're hoping for
+Helping them separate facts from interpretations
+Offering encouragement
+
+[[Question:MC]]
+[[ID:Q75]]
+Context: A customer service escalation: Customer: "I've been a customer for ten years and I've never been treated this poorly." Agent: "Let me transfer you to a supervisor who can help. Please hold." Which skill would most improve this interaction?
+[[Choices]]
+Apologizing for the poor treatment
+Asking an open question about what happened before attempting to solve
+Reflecting the customer's frustration
+Explaining the company's policies
+
+[[Question:MC]]
+[[ID:Q76]]
+Context: A performance check-in: Manager: "Your code reviews are taking too long. You need to speed them up." Employee: "Okay." Manager: "Great. Any questions?" Employee: "No." What skill would have improved this conversation?
+[[Choices]]
+The manager restating the feedback more clearly
+The manager asking open questions about what's driving the review time before prescribing a solution
+The employee asking for clarification
+The manager acknowledging the employee's workload
+
+[[Question:MC]]
+[[ID:Q77]]
+Context: A sales call: Prospect: "We tried a similar solution before and it didn't work." Salesperson: "Our solution is different. Let me explain our key differentiators." Which skill would most improve the salesperson's approach?
+[[Choices]]
+Acknowledging the previous negative experience
+Asking what specifically didn't work about the previous solution before positioning
+Restating the prospect's concern
+Offering a trial period to reduce risk
+
+[[Question:MC]]
+[[ID:Q78]]
+Context: A job interview: Interviewer: "Tell me about a time you failed." Candidate: "I once missed a major deadline because I didn't communicate well with my team." Interviewer: "Okay. And what's your greatest strength?" What skill is missing?
+[[Choices]]
+Restating the candidate's response
+Asking exploratory follow-up questions to understand the situation more deeply
+Helping the candidate feel more comfortable
+Giving the candidate feedback on their answer
+
+[[Question:MC]]
+[[ID:Q79]]
+Your manager gave detailed feedback to three team members after their presentations but only said "good job" to you after yours. Which response best separates observable facts from interpretation?
+[[Choices]]
+"She said 'good job' to me and gave longer feedback to the others. I noticed a difference but don't know what it means."
+"She said 'good job' to me while others got detailed feedback—she's clearly too busy to invest in my development."
+"She said 'good job' to me, which means my presentation was so strong it didn't need improvement."
+"She gave me brief feedback. I should ask her directly what she thought could be stronger."
+
+[[Question:MC]]
+[[ID:Q80]]
+During a leadership meeting, the CEO asked clarifying questions only about your department's report, while accepting other departments' reports without questions. Which thought best demonstrates separating observation from interpretation?
+[[Choices]]
+"The CEO asked several questions about my report specifically. I want to understand whether that signals concern, interest, or something else."
+"The CEO clearly has doubts about my department's performance."
+"The CEO is more engaged with my work because it's strategically important."
+"The CEO scrutinized my report, which means I need to prepare more thoroughly next time."
+
+[[Question:MC]]
+[[ID:Q81]]
+You sent a proposal to a client three days ago. They responded within hours to your colleague's proposal but haven't replied to yours. Which response best separates fact from interpretation?
+[[Choices]]
+"They responded quickly to my colleague but not to me. Proposals differ in complexity, so I don't know what the delay means."
+"They haven't responded in three days. I should follow up with a call to check in."
+"They responded to my colleague within hours but not to me in three days—clearly they're not interested in my proposal."
+"They're probably still reviewing mine because it requires more consideration than my colleague's simpler proposal."
+
+[[Question:MC]]
+[[ID:Q82]]
+After you presented a new initiative, your skip-level manager said, "Let me think about this and get back to you." It's been two weeks with no follow-up. Which framing best separates what happened from interpretation?
+[[Choices]]
+"It's been two weeks since she said she'd think about it. Senior leaders have competing priorities, so I don't know if this reflects the initiative's merit or her bandwidth."
+"She's had two weeks and hasn't responded, which means she's not going to support it but doesn't want to say no directly."
+"Two weeks without follow-up means this fell off her radar. I should send a reminder."
+"She said she'd get back to me and hasn't. I need to find out where this stands without assuming the worst."
+
+[[Question:MC]]
+[[ID:Q83]]
+Your team's budget was cut by 15% while another team's budget increased by 10%. Before meeting with your VP, which framing best separates fact from interpretation?
+[[Choices]]
+"Leadership is clearly investing in other priorities and deprioritizing our work."
+"Our budget decreased 15% and theirs increased 10%. Budget decisions involve factors I may not be aware of."
+"Our budget was cut, which reflects poor perception of our team's value."
+"I need to understand the reasoning behind the budget allocation before drawing conclusions about what it means for our team."
+
+[[Question:MC]]
+[[ID:Q84]]
+You're about to have a difficult conversation with a peer who you believe has been "undermining you" to leadership. You've already identified specific incidents and separated them from your conclusions. What should you do next?
+[[Choices]]
+Plan open-ended questions to understand their perspective on those incidents
+Prepare to reflect back what they say to demonstrate you're listening
+Review your list of incidents again to ensure you're not conflating separate events into a pattern that may not exist
+Rehearse staying calm when they become defensive
+
+[[Question:MC]]
+[[ID:Q85]]
+You've been passed over for a high-visibility project for the third time this year. You're convinced your manager doesn't see you as leadership material. Before requesting a meeting, what would be most useful?
+[[Choices]]
+Prepare open questions to understand how project assignments are made
+Plan how to reflect back your manager's perspective to show you're open to feedback
+List the three instances, examine what you actually know about each decision, and identify what you're assuming versus what you've been told
+Write down your feelings so you can express them clearly in the meeting
+
+[[Question:MC]]
+[[ID:Q86]]
+Two members of your team are in conflict. One says the other is "passive-aggressive" and the other says the first is "controlling." You've asked both to describe specific incidents. Both have provided examples. What's the most important next step?
+[[Choices]]
+Help each person see how their behavior might be perceived by the other
+Reflect back each person's experience to help them feel heard
+Ask curious questions about what each person needed in those moments
+Help each person examine whether their characterization of the other person's intent is supported by what actually happened
+
+[[Question:MC]]
+[[ID:Q87]]
+Context: A senior director prepares for a board presentation after receiving pushback on her previous proposal: "Last quarter, three board members asked critical questions about the ROI projections. I've been assuming this means they don't trust my analysis. But actually, what happened was: Member A asked about the assumptions behind year-two growth, Member B questioned the competitive landscape section, and Member C asked for sensitivity analysis. None of them said they didn't trust me. Critical questions might just mean they're doing their job." Which skill is most evident?
+[[Choices]]
+Reframing negative experiences in a positive light
+Preparing responses to anticipated objections
+Examining whether a characterization ("don't trust my analysis") is supported by what actually occurred
+Building resilience by challenging negative self-talk
+
+[[Question:MC]]
+[[ID:Q88]]
+Context: In a post-mortem meeting: Team lead: "I want to be careful about how we talk about the client's role in this. I keep hearing us say they 'sabotaged' the timeline. What I can verify is: they requested three scope changes after sign-off, their approvals averaged 5 days instead of the contracted 2 days, and they changed the key stakeholder twice. Whether that constitutes 'sabotage' involves assumptions about intent that I don't think we can make." Which skill is the team lead demonstrating?
+[[Choices]]
+Protecting the client relationship by softening criticism
+Separating verifiable events from a characterization that implies intent
+Facilitating a more productive post-mortem discussion
+Modeling professional communication norms
+
+[[Question:MC]]
+[[ID:Q89]]
+Context: An executive coaching session: Executive: "My CFO is obviously threatened by me. She contradicts me in every meeting, questions my numbers, and went to the CEO behind my back." Coach: "It sounds like you're experiencing a lot of friction with her. What would help you work together more effectively?" Which skill is most missing from the coach's response?
+[[Choices]]
+Reflecting back the executive's emotional experience
+Helping the executive examine whether "obviously threatened" is supported by the specific behaviors cited
+Asking open questions about the relationship dynamic
+Validating the difficulty of peer conflict at the executive level
+
+[[Question:MC]]
+[[ID:Q90]]
+Context: A team meeting where a project delay is being discussed: Project Manager: "Engineering dropped the ball on this. They committed to the April deadline and then just didn't deliver." Engineering Lead: "We communicated the risks clearly. Product kept changing requirements." Product Manager: "We made minor adjustments. Engineering always overcomplicates things." Director: "Okay, let's focus on solutions. What do we need to do to get back on track?" Which skill is most notably missing from this exchange?
+[[Choices]]
+Reflective listening to de-escalate the conflict
+Each party separating specific events from characterizations like "dropped the ball," "always overcomplicates," and "kept changing"
+Curious questions about what happened at each stage
+The director establishing ground rules for respectful dialogue
+
+[[Question:MC]]
+[[ID:Q91]]
+Your direct report says: "I know I should be grateful to have a job, but I'm exhausted. I've been covering for two open positions and I don't see any relief coming. And I feel guilty for even complaining." Which response best demonstrates reflective listening?
+[[Choices]]
+"You're carrying a huge load with no end in sight, and on top of the exhaustion, you're feeling guilty for being honest about it. That's a lot to hold."
+"You're burned out from covering extra work, and you feel guilty about complaining. Let's talk about what support you need."
+"It sounds like you're exhausted and guilty. The guilt is unnecessary—your concerns are valid."
+"You've been stretched thin and you're exhausted. Anyone in your position would feel the same way."
+
+[[Question:MC]]
+[[ID:Q92]]
+A senior colleague says: "I've given 15 years to this company. I've turned down other opportunities, moved my family twice, and now they're telling me my role is being 'evaluated.' I don't even know what that means." Which response best reflects their experience?
+[[Choices]]
+"Fifteen years, major sacrifices, and now uncertainty about your future here. That's destabilizing—and probably scary."
+"You've invested so much and now feel betrayed. That's completely understandable."
+"It sounds like you're in a difficult situation with a lot of uncertainty. What do you think 'evaluated' means?"
+"After everything you've given, being told your role is being evaluated must feel like a slap in the face."
+
+[[Question:MC]]
+[[ID:Q93]]
+During a skip-level conversation, an employee says: "My manager takes credit for my ideas in leadership meetings. When I brought it up, she said I was being 'too sensitive.' Now I don't know if I'm overreacting or if my perception is valid." Which response best demonstrates reflective listening?
+[[Choices]]
+"That's gaslighting. Your perception is valid and you're not overreacting."
+"You're experiencing something that feels like having your contributions taken, and when you raised it, you were told the problem was your reaction. Now you're questioning your own judgment."
+"It sounds like you feel your ideas are being taken and your concerns are being dismissed. That would be frustrating for anyone."
+"You're feeling like your manager takes credit for your work and dismisses your concerns. What specific instances are you thinking of?"
+
+[[Question:MC]]
+[[ID:Q94]]
+A team member says: "I've been working remotely for two years with great reviews. Now they want everyone back in office three days a week. I moved an hour away during COVID because they said remote was permanent. I feel like I was lied to." Which response best reflects what they shared?
+[[Choices]]
+"You made major life decisions based on what you were told, and now that's changed. The word that comes to mind is betrayed—like the rules shifted after you already committed."
+"You structured your life around a remote arrangement that's now being reversed. That's a huge disruption, and feeling misled makes sense given what you were told."
+"It sounds like the policy change puts you in a difficult position. What options are you considering?"
+"You feel lied to about remote work being permanent. That's a valid concern you should raise with HR."
+
+[[Question:MC]]
+[[ID:Q95]]
+An employee comes to you visibly upset, saying their project was killed without explanation after months of work. They're talking fast, their voice is strained, and they keep saying "I just don't understand why." You have information about why the decision was made. What should you do first?
+[[Choices]]
+Share the context you have so they understand the reasoning
+Ask open questions to understand their perspective on what happened
+Help them separate what happened (project killed) from the interpretation (no explanation, though you know there was reasoning)
+Reflect what you're hearing and acknowledge the emotional impact before providing any information
+
+[[Question:MC]]
+[[ID:Q96]]
+You're mediating a conflict where both parties have already stated their positions. One party says: "I've explained this three times and they still don't get it." The other party looks shut down. What would be most effective next?
+[[Choices]]
+Ask the second party open questions to re-engage them
+Reflect back to the first party what the second party seems to be experiencing
+Summarize both positions to ensure mutual understanding
+Reflect back what the first party said to help them feel heard, which may reduce their escalation
+
+[[Question:MC]]
+[[ID:Q97]]
+You've just given an employee difficult feedback about their performance. They respond with: "I've been trying so hard. I moved to a new city for this job, I work weekends, and I still can't seem to get it right." Their eyes are watering. What's most important to do next?
+[[Choices]]
+Clarify that effort is valued even if outcomes need improvement
+Ask what support would help them improve
+Pause the performance conversation and reflect back the weight of what they just shared
+Help them separate the facts (specific performance gaps) from the interpretation (can't get it right)
+
+[[Question:MC]]
+[[ID:Q98]]
+Context: A manager responds to an employee who just learned they weren't selected for an internal transfer: Employee: "I thought I had it. The hiring manager said I was a strong candidate. I don't know what else I could have done." Manager: "You went in feeling confident, got positive signals, and then it didn't happen. Now you're left second-guessing yourself without clear answers. That's a painful place to be." Which skill is the manager demonstrating?
+[[Choices]]
+Helping the employee process disappointment through validation
+Paraphrasing the situation while naming the emotional experience accurately
+Coaching the employee to seek feedback from the hiring manager
+Normalizing rejection as part of career development
+
+[[Question:MC]]
+[[ID:Q99]]
+Context: In a client call where tensions have been rising: Client: "Every time we raise a concern, we get a technical explanation instead of a solution. I'm not sure you're hearing what we actually need." Account Manager: "You're telling us what's not working for you, and it feels like we respond with 'here's why' instead of 'here's what we'll do.' That would leave anyone feeling unheard." Which skill is the account manager demonstrating most precisely?
+[[Choices]]
+De-escalating through validation
+Restating the client's core concern while naming the emotional impact
+Demonstrating accountability for the team's communication failures
+Asking implicitly for clarity on what the client needs
+
+[[Question:MC]]
+[[ID:Q100]]
+Context: An employee discloses a personal situation: Employee: "My mom was just diagnosed with early-stage Alzheimer's. I'm her only family nearby. I don't know how I'm going to manage everything." Manager: "I'm sorry to hear that. We have an EAP with counseling services, and you can use FMLA if you need extended time off. Let me send you the information." Which skill is most missing?
+[[Choices]]
+Asking open questions about what the employee needs
+Pausing to acknowledge the weight of what was shared before providing resources
+Helping the employee separate immediate facts from anticipated future challenges
+Giving the employee space to express their feelings
+
+[[Question:MC]]
+[[ID:Q101]]
+Context: During a team retrospective after a project failure: Team Member: "I flagged the risk in week three. I put it in writing. And then when it happened, somehow I was the one explaining to the client why we missed the deadline. I took the hit for something I warned about." Team Lead: "Let's capture that as a lesson learned—we need better processes for escalating flagged risks. What would have helped?" Which skill is most notably absent?
+[[Choices]]
+Validating the team member's contribution to risk identification
+Reflecting back the specific experience of having flagged a risk, not being heard, and then taking the consequence
+Asking curious questions about what blocked the escalation
+Acknowledging the team member's professionalism in the client conversation
+
+[[Question:MC]]
+[[ID:Q102]]
+An employee who recently returned from parental leave says, "I feel like I'm starting over. It's like all the momentum I built is gone." Which question best invites genuine exploration?
+[[Choices]]
+"What aspects of your work feel different now than before you left?"
+"Is this about your project assignments or the team dynamics?"
+"Have you talked to your manager about getting back on high-visibility work?"
+"Don't you think it just takes time to rebuild momentum after leave?"
+
+[[Question:MC]]
+[[ID:Q103]]
+A high performer tells you they're thinking about leaving for a competitor. You want to understand what's driving this without projecting what you think the issue might be. Which question works best?
+[[Choices]]
+"What is it about that opportunity that's appealing to you?"
+"Is this about compensation, because we might be able to address that?"
+"What would need to be different here for you to want to stay?"
+"What's behind the interest in making a move right now?"
+
+[[Question:MC]]
+[[ID:Q104]]
+In a post-mortem, someone says, "Communication broke down between teams." You want to understand specifically what happened. Which question best opens genuine exploration?
+[[Choices]]
+"Was the breakdown about frequency of communication or clarity?"
+"At what point did you notice the communication wasn't working, and what was happening then?"
+"How could we improve cross-team communication going forward?"
+"Who was responsible for keeping the other team informed?"
+
+[[Question:MC]]
+[[ID:Q105]]
+Your manager made a strategic decision you disagree with. You've already demonstrated that you understand their reasoning. Now you want to genuinely explore whether there's something you're missing. Which question works best?
+[[Choices]]
+"Is there context I don't have that shaped this decision?"
+"Help me understand—what risks did you weigh that led you away from the alternative approach?"
+"Did you consider the impact on the timeline?"
+"What would change your mind about this approach?"
+
+[[Question:MC]]
+[[ID:Q106]]
+A client is pushing back on your recommendation but hasn't clearly articulated why. Which question would best help you understand their underlying concern?
+[[Choices]]
+"What would you need to see to feel confident about this approach?"
+"Is your concern about the cost or the timeline?"
+"What's making you hesitant about moving forward?"
+"Do you need more data to support the recommendation?"
+
+[[Question:MC]]
+[[ID:Q107]]
+You're interviewing a candidate who gives polished but generic answers. You want to get beneath the surface to understand how they actually think. What skill would be most helpful?
+[[Choices]]
+Reflecting back their answers to see if they elaborate
+Sharing more about the role to help them tailor their responses
+Asking follow-up questions that can't be answered with prepared responses
+Helping them feel comfortable by acknowledging interview nerves
+
+[[Question:MC]]
+[[ID:Q108]]
+You've been asking open questions for fifteen minutes, but your direct report keeps giving surface-level answers. You sense something deeper is going on. What would be most effective?
+[[Choices]]
+Reflect back what you've heard so far to see if it resonates
+Name the pattern: "I notice I'm asking questions and I'm getting answers, but I have a sense there's something more. Is there something you're hesitant to say?"
+Ask a different type of open question to try a new angle
+Share your own vulnerability to model openness
+
+[[Question:MC]]
+[[ID:Q109]]
+You're in a negotiation that has stalled. You've asked open questions about interests, and the other party has shared theirs. You've reflected back to confirm understanding. The conversation is still stuck. What skill would help most now?
+[[Choices]]
+Ask questions about constraints: what's preventing them from moving toward agreement
+Separate facts from interpretations about why they might be stuck
+Offer a creative proposal to break the impasse
+Acknowledge the difficulty of the situation before continuing
+
+[[Question:MC]]
+[[ID:Q110]]
+Context: In a strategy meeting: CEO: "I want to expand into the European market." COO: "What's drawing you to Europe specifically over other regions? And what would success look like in year one?" Which skill is the COO demonstrating?
+[[Choices]]
+Challenging the CEO's strategic thinking
+Gathering information to plan implementation
+Asking open questions to understand the reasoning and vision before evaluating the strategy
+Demonstrating engagement with leadership priorities
+
+[[Question:MC]]
+[[ID:Q111]]
+Context: A manager asks a struggling team member: "You've mentioned feeling overwhelmed a few times. When you imagine a week that feels manageable, what's different about it?" Which skill is the manager demonstrating?
+[[Choices]]
+Coaching for work-life balance
+Asking an exploratory question that invites the employee to envision a different state
+Helping the employee reframe their situation positively
+Gathering information to adjust workload
+
+[[Question:MC]]
+[[ID:Q112]]
+Context: A mentor responds to a mentee's career concern: Mentee: "I don't know if I should go for the management track or stay technical. I keep going back and forth." Mentor: "I faced the same decision. I chose management because I wanted more influence on product direction. I'd recommend thinking about what kind of impact you want to have." Which skill is most missing?
+[[Choices]]
+Acknowledging the difficulty of the decision
+Asking curious questions about what draws the mentee to each path before sharing personal experience
+Helping the mentee separate facts from interpretations about each path
+Validating that ambivalence is normal
+
+[[Question:MC]]
+[[ID:Q113]]
+Context: A manager responds to an employee who raised a concern about team dynamics: Employee: "I think there's tension between the senior and junior engineers. It's affecting collaboration." Manager: "Thanks for raising that. I've noticed some friction too. Let me think about how to address it." Which skill is most notably missing?
+[[Choices]]
+Validating the employee's observation
+Asking curious questions to understand what the employee has observed specifically and what they think is driving it
+Committing to action on the concern
+Reflecting back the employee's concern
+
+[[Question:MC]]
+[[ID:Q114]]
+Context: In a quarterly business review: Sales Director: "Pipeline is down 20% from last quarter." CEO: "That's concerning. We need to fix this. Let's increase outbound activity by 30% next quarter." Which skill is most notably missing?
+[[Choices]]
+Acknowledging the team's effort before addressing the gap
+Asking open questions about what's driving the pipeline decline before prescribing solutions
+Distinguishing the facts (pipeline down 20%) from interpretations about cause
+Reflecting back the concern to ensure alignment
+
